@@ -1,5 +1,6 @@
 # Tontine-Game
 Building a game in Unity Engine using C#
+A multiplayer game where the last person standing wins
 
 # Requirements
 You will need Unity 5.* and Parse SDK.
